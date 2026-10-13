@@ -1,0 +1,1439 @@
+{
+  "currency": "ZMW",
+  "vatNote": "Cash prices shown. Haematology and microbiology include VAT-inclusive figures from the current tariff. Histopathology uses the 2026 cash schedule.",
+  "categories": [
+    "Haematology",
+    "Coagulation",
+    "Kidney Function",
+    "Electrolytes",
+    "Liver Function Test",
+    "Pancreas / GIT",
+    "Bone",
+    "Glucose Metabolism",
+    "Lipids",
+    "Cardiac Markers",
+    "Inflammatory Markers",
+    "Thyroid",
+    "Hormones",
+    "Tumor Markers",
+    "Other",
+    "Microbiology",
+    "Infectious Diseases",
+    "Hepatitis",
+    "Syphilis",
+    "TB",
+    "Malaria",
+    "Torche/Pregnancy",
+    "Cytology",
+    "Histopathology"
+  ],
+  "tests": [
+    {
+      "code": "H001",
+      "name": "Full Blood Count",
+      "category": "Haematology",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "H002",
+      "name": "Reticulocyte",
+      "category": "Haematology",
+      "priceCashZmw": 110,
+      "priceVatZmw": 127.6
+    },
+    {
+      "code": "H003",
+      "name": "Erythrocyte Sedimentation Rate (ESR)",
+      "category": "Haematology",
+      "priceCashZmw": 70,
+      "priceVatZmw": 81.2
+    },
+    {
+      "code": "H004",
+      "name": "ABO Blood Grouping",
+      "category": "Haematology",
+      "priceCashZmw": 100,
+      "priceVatZmw": 116
+    },
+    {
+      "code": "H005",
+      "name": "Cross-Match",
+      "category": "Haematology",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "H006",
+      "name": "Sickling Test",
+      "category": "Haematology",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "H007",
+      "name": "Peripheral Blood Smear",
+      "category": "Haematology",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "H008",
+      "name": "ABO Blood Grouping",
+      "category": "Haematology",
+      "priceCashZmw": 100,
+      "priceVatZmw": 116
+    },
+    {
+      "code": "H009",
+      "name": "RH Compatibility",
+      "category": "Haematology",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "H010",
+      "name": "Direct Coombs",
+      "category": "Haematology",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "H011",
+      "name": "Indirect Coombs",
+      "category": "Haematology",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "B001",
+      "name": "Prothrombin Time (PT)",
+      "category": "Coagulation",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "B002",
+      "name": "Thrombin Time",
+      "category": "Coagulation",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "B003",
+      "name": "Activated Partial Thromboplastin time (aPTT)",
+      "category": "Coagulation",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "B004",
+      "name": "D-Dimer",
+      "category": "Coagulation",
+      "priceCashZmw": 300,
+      "priceVatZmw": 348
+    },
+    {
+      "code": "B005",
+      "name": "International Normalised Ratio (INR)",
+      "category": "Coagulation",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "C0011",
+      "name": "KFT Panel",
+      "category": "Kidney Function",
+      "priceCashZmw": 400,
+      "priceVatZmw": 464
+    },
+    {
+      "code": "C001",
+      "name": "Urinalysis",
+      "category": "Kidney Function",
+      "priceCashZmw": 100,
+      "priceVatZmw": 116
+    },
+    {
+      "code": "C002",
+      "name": "Blood Urea Nitrogen",
+      "category": "Kidney Function",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "C003",
+      "name": "Creatinine",
+      "category": "Kidney Function",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "C004",
+      "name": "Total Protein",
+      "category": "Kidney Function",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "C005",
+      "name": "Uric Acid",
+      "category": "Kidney Function",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "C0061",
+      "name": "Electrolyte Panel",
+      "category": "Electrolytes",
+      "priceCashZmw": 220,
+      "priceVatZmw": 255.2
+    },
+    {
+      "code": "C006",
+      "name": "Sodium",
+      "category": "Electrolytes",
+      "priceCashZmw": 80,
+      "priceVatZmw": 92.8
+    },
+    {
+      "code": "C007",
+      "name": "Potassium",
+      "category": "Electrolytes",
+      "priceCashZmw": 80,
+      "priceVatZmw": 92.8
+    },
+    {
+      "code": "C008",
+      "name": "Chloride",
+      "category": "Electrolytes",
+      "priceCashZmw": 80,
+      "priceVatZmw": 92.8
+    },
+    {
+      "code": "C009",
+      "name": "Total CO2 (Bicarbonate)",
+      "category": "Electrolytes",
+      "priceCashZmw": 200,
+      "priceVatZmw": 232
+    },
+    {
+      "code": "C0101",
+      "name": "LFT Panel",
+      "category": "Liver Function Test",
+      "priceCashZmw": 500,
+      "priceVatZmw": 580
+    },
+    {
+      "code": "C010",
+      "name": "Alkaline-Phosphatase (ALP)",
+      "category": "Liver Function Test",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "C011",
+      "name": "Alanine-Transferase (ALT)",
+      "category": "Liver Function Test",
+      "priceCashZmw": 120,
+      "priceVatZmw": 139.2
+    },
+    {
+      "code": "C012",
+      "name": "Aspartate Amino-Transferase (AST)",
+      "category": "Liver Function Test",
+      "priceCashZmw": 120,
+      "priceVatZmw": 139.2
+    },
+    {
+      "code": "C013",
+      "name": "Gamma-Glutamyl Transferase (GGT)",
+      "category": "Liver Function Test",
+      "priceCashZmw": 120,
+      "priceVatZmw": 139.2
+    },
+    {
+      "code": "C014",
+      "name": "Cholinesterase",
+      "category": "Liver Function Test",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "C015",
+      "name": "Direct Bilirubin",
+      "category": "Liver Function Test",
+      "priceCashZmw": 120,
+      "priceVatZmw": 139.2
+    },
+    {
+      "code": "C016",
+      "name": "Total Bilirubin",
+      "category": "Liver Function Test",
+      "priceCashZmw": 120,
+      "priceVatZmw": 139.2
+    },
+    {
+      "code": "C017",
+      "name": "Albumin",
+      "category": "Liver Function Test",
+      "priceCashZmw": 120,
+      "priceVatZmw": 139.2
+    },
+    {
+      "code": "C018",
+      "name": "Total Protein",
+      "category": "Liver Function Test",
+      "priceCashZmw": 120,
+      "priceVatZmw": 139.2
+    },
+    {
+      "code": "C019",
+      "name": "Amylase",
+      "category": "Pancreas / GIT",
+      "priceCashZmw": 120,
+      "priceVatZmw": 139.2
+    },
+    {
+      "code": "C020",
+      "name": "Lipase",
+      "category": "Pancreas / GIT",
+      "priceCashZmw": 120,
+      "priceVatZmw": 139.2
+    },
+    {
+      "code": "C021",
+      "name": "Calcium",
+      "category": "Bone",
+      "priceCashZmw": 120,
+      "priceVatZmw": 139.2
+    },
+    {
+      "code": "C022",
+      "name": "Inorganic Phosphate",
+      "category": "Bone",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "C023",
+      "name": "Vitamin D",
+      "category": "Bone",
+      "priceCashZmw": 400,
+      "priceVatZmw": 464
+    },
+    {
+      "code": "C024",
+      "name": "Glucose Random",
+      "category": "Glucose Metabolism",
+      "priceCashZmw": 120,
+      "priceVatZmw": 139.2
+    },
+    {
+      "code": "C025",
+      "name": "Glucose Fasting",
+      "category": "Glucose Metabolism",
+      "priceCashZmw": 120,
+      "priceVatZmw": 139.2
+    },
+    {
+      "code": "C0252",
+      "name": "C-Peptide",
+      "category": "Glucose Metabolism",
+      "priceCashZmw": 280,
+      "priceVatZmw": 324.8
+    },
+    {
+      "code": "C026",
+      "name": "Glucose Tolerance Test",
+      "category": "Glucose Metabolism",
+      "priceCashZmw": 200,
+      "priceVatZmw": 232
+    },
+    {
+      "code": "C027",
+      "name": "HBA1C",
+      "category": "Glucose Metabolism",
+      "priceCashZmw": 200,
+      "priceVatZmw": 232
+    },
+    {
+      "code": "C0281",
+      "name": "Lipid Profile",
+      "category": "Lipids",
+      "priceCashZmw": 350,
+      "priceVatZmw": 406
+    },
+    {
+      "code": "C028",
+      "name": "LDL Cholesterol",
+      "category": "Lipids",
+      "priceCashZmw": 120,
+      "priceVatZmw": 139.2
+    },
+    {
+      "code": "C029",
+      "name": "HDL Cholesterol",
+      "category": "Lipids",
+      "priceCashZmw": 120,
+      "priceVatZmw": 139.2
+    },
+    {
+      "code": "C030",
+      "name": "Total Cholesterol",
+      "category": "Lipids",
+      "priceCashZmw": 120,
+      "priceVatZmw": 139.2
+    },
+    {
+      "code": "C031",
+      "name": "Triglycerides",
+      "category": "Lipids",
+      "priceCashZmw": 120,
+      "priceVatZmw": 139.2
+    },
+    {
+      "code": "C0321",
+      "name": "Card (CKMB/TI/MG)",
+      "category": "Cardiac Markers",
+      "priceCashZmw": 500,
+      "priceVatZmw": 580
+    },
+    {
+      "code": "C032",
+      "name": "Troponin I",
+      "category": "Cardiac Markers",
+      "priceCashZmw": 250,
+      "priceVatZmw": 290
+    },
+    {
+      "code": "C033",
+      "name": "Troponin T",
+      "category": "Cardiac Markers",
+      "priceCashZmw": 250,
+      "priceVatZmw": 290
+    },
+    {
+      "code": "C034",
+      "name": "LDH",
+      "category": "Cardiac Markers",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "C035",
+      "name": "Creatinine Kinase MB",
+      "category": "Cardiac Markers",
+      "priceCashZmw": 250,
+      "priceVatZmw": 290
+    },
+    {
+      "code": "C036",
+      "name": "CRP High Sensitivity",
+      "category": "Cardiac Markers",
+      "priceCashZmw": 350,
+      "priceVatZmw": 406
+    },
+    {
+      "code": "C037",
+      "name": "Myoglobin",
+      "category": "Cardiac Markers",
+      "priceCashZmw": 350,
+      "priceVatZmw": 406
+    },
+    {
+      "code": "C038",
+      "name": "B-Type Natriuretic Peptide",
+      "category": "Cardiac Markers",
+      "priceCashZmw": 350,
+      "priceVatZmw": 406
+    },
+    {
+      "code": "C039",
+      "name": "C-Reactive Protein",
+      "category": "Inflammatory Markers",
+      "priceCashZmw": 300,
+      "priceVatZmw": 348
+    },
+    {
+      "code": "C040",
+      "name": "CRP High Sensitivity",
+      "category": "Inflammatory Markers",
+      "priceCashZmw": 350,
+      "priceVatZmw": 406
+    },
+    {
+      "code": "C0411",
+      "name": "Thyroid Panel",
+      "category": "Thyroid",
+      "priceCashZmw": 400,
+      "priceVatZmw": 464
+    },
+    {
+      "code": "C041",
+      "name": "Thyroid Stimulating Hormone",
+      "category": "Thyroid",
+      "priceCashZmw": 180,
+      "priceVatZmw": 208.8
+    },
+    {
+      "code": "C042",
+      "name": "Total T3",
+      "category": "Thyroid",
+      "priceCashZmw": 180,
+      "priceVatZmw": 208.8
+    },
+    {
+      "code": "C043",
+      "name": "Free T3",
+      "category": "Thyroid",
+      "priceCashZmw": 180,
+      "priceVatZmw": 208.8
+    },
+    {
+      "code": "C044",
+      "name": "Total T4",
+      "category": "Thyroid",
+      "priceCashZmw": 180,
+      "priceVatZmw": 208.8
+    },
+    {
+      "code": "C045",
+      "name": "Free T4",
+      "category": "Thyroid",
+      "priceCashZmw": 180,
+      "priceVatZmw": 208.8
+    },
+    {
+      "code": "C046",
+      "name": "BHCG (Qualitative)",
+      "category": "Hormones",
+      "priceCashZmw": 200,
+      "priceVatZmw": 232
+    },
+    {
+      "code": "C047",
+      "name": "BHCG (Quantitative)",
+      "category": "Hormones",
+      "priceCashZmw": 200,
+      "priceVatZmw": 232
+    },
+    {
+      "code": "C048",
+      "name": "Total Testostertone",
+      "category": "Hormones",
+      "priceCashZmw": 250,
+      "priceVatZmw": 290
+    },
+    {
+      "code": "C049",
+      "name": "Prolactin",
+      "category": "Hormones",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "C050",
+      "name": "Anti-Mullerian Hormone",
+      "category": "Hormones",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "C051",
+      "name": "Oestradiol",
+      "category": "Hormones",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "C052",
+      "name": "Follicle Stimulating Hormone",
+      "category": "Hormones",
+      "priceCashZmw": 200,
+      "priceVatZmw": 232
+    },
+    {
+      "code": "C053",
+      "name": "Luteinizing Hormone",
+      "category": "Hormones",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "C054",
+      "name": "Progesterone",
+      "category": "Hormones",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "C055",
+      "name": "Alpha-Fetoprotein",
+      "category": "Tumor Markers",
+      "priceCashZmw": 200,
+      "priceVatZmw": 232
+    },
+    {
+      "code": "C056",
+      "name": "Carcinoembryonic Antigen",
+      "category": "Tumor Markers",
+      "priceCashZmw": 200,
+      "priceVatZmw": 232
+    },
+    {
+      "code": "C057",
+      "name": "CA 125 (Ovarian Cancer)",
+      "category": "Tumor Markers",
+      "priceCashZmw": 250,
+      "priceVatZmw": 290
+    },
+    {
+      "code": "C058",
+      "name": "CA 19.9 (Pancreatic, Gallbladder, Bile Duct and Gastric Cancers",
+      "category": "Tumor Markers",
+      "priceCashZmw": 250,
+      "priceVatZmw": 290
+    },
+    {
+      "code": "C059",
+      "name": "Total PSA",
+      "category": "Tumor Markers",
+      "priceCashZmw": 200,
+      "priceVatZmw": 232
+    },
+    {
+      "code": "C060",
+      "name": "Free PSA",
+      "category": "Tumor Markers",
+      "priceCashZmw": 250,
+      "priceVatZmw": 290
+    },
+    {
+      "code": "C062",
+      "name": "Rheumatoid Factor",
+      "category": "Other",
+      "priceCashZmw": 300,
+      "priceVatZmw": 348
+    },
+    {
+      "code": "C063",
+      "name": "Vitamin B12",
+      "category": "Other",
+      "priceCashZmw": 350,
+      "priceVatZmw": 406
+    },
+    {
+      "code": "C064",
+      "name": "Ferretin",
+      "category": "Other",
+      "priceCashZmw": 300,
+      "priceVatZmw": 348
+    },
+    {
+      "code": "M001",
+      "name": "Blood Culture",
+      "category": "Microbiology",
+      "priceCashZmw": 560,
+      "priceVatZmw": 649.6
+    },
+    {
+      "code": "M002",
+      "name": "Body Fluids M/C/S",
+      "category": "Microbiology",
+      "priceCashZmw": 480,
+      "priceVatZmw": 556.8
+    },
+    {
+      "code": "M003",
+      "name": "Cerebral Spinal Fluid M/C/S",
+      "category": "Microbiology",
+      "priceCashZmw": 480,
+      "priceVatZmw": 556.8
+    },
+    {
+      "code": "M004",
+      "name": "Stool M/C/S",
+      "category": "Microbiology",
+      "priceCashZmw": 480,
+      "priceVatZmw": 556.8
+    },
+    {
+      "code": "M005",
+      "name": "Mid-Stream M/C/S",
+      "category": "Microbiology",
+      "priceCashZmw": 480,
+      "priceVatZmw": 556.8
+    },
+    {
+      "code": "M006",
+      "name": "Urine M/C/S",
+      "category": "Microbiology",
+      "priceCashZmw": 480,
+      "priceVatZmw": 556.8
+    },
+    {
+      "code": "M007",
+      "name": "Suprapubic Urine M/C/S",
+      "category": "Microbiology",
+      "priceCashZmw": 480,
+      "priceVatZmw": 556.8
+    },
+    {
+      "code": "M008",
+      "name": "Catheter Urine M/C/S",
+      "category": "Microbiology",
+      "priceCashZmw": 480,
+      "priceVatZmw": 556.8
+    },
+    {
+      "code": "M009",
+      "name": "High Vaginal Swab M/C/S",
+      "category": "Microbiology",
+      "priceCashZmw": 480,
+      "priceVatZmw": 556.8
+    },
+    {
+      "code": "M010",
+      "name": "Faecal Occult Blood",
+      "category": "Microbiology",
+      "priceCashZmw": 80,
+      "priceVatZmw": 92.8
+    },
+    {
+      "code": "M011",
+      "name": "GeneXpert for Sputum",
+      "category": "Microbiology",
+      "priceCashZmw": 700,
+      "priceVatZmw": 812
+    },
+    {
+      "code": "M012",
+      "name": "GeneXpert for Stool",
+      "category": "Microbiology",
+      "priceCashZmw": 700,
+      "priceVatZmw": 812
+    },
+    {
+      "code": "M013",
+      "name": "Semen Analysis",
+      "category": "Microbiology",
+      "priceCashZmw": 280,
+      "priceVatZmw": 324.8
+    },
+    {
+      "code": "M014",
+      "name": "Urinalysis Dipstick",
+      "category": "Microbiology",
+      "priceCashZmw": 160,
+      "priceVatZmw": 185.6
+    },
+    {
+      "code": "M015",
+      "name": "Sputum M/C/S",
+      "category": "Microbiology",
+      "priceCashZmw": 480,
+      "priceVatZmw": 556.8
+    },
+    {
+      "code": "M016",
+      "name": "Group B Streptococcus Antigen",
+      "category": "Microbiology",
+      "priceCashZmw": 450,
+      "priceVatZmw": 522
+    },
+    {
+      "code": "M017",
+      "name": "Throat C/S",
+      "category": "Microbiology",
+      "priceCashZmw": 480,
+      "priceVatZmw": 556.8
+    },
+    {
+      "code": "M018",
+      "name": "Genital M/C/S",
+      "category": "Microbiology",
+      "priceCashZmw": 480,
+      "priceVatZmw": 556.8
+    },
+    {
+      "code": "M019",
+      "name": "Pus Swab M/C/S",
+      "category": "Microbiology",
+      "priceCashZmw": 480,
+      "priceVatZmw": 556.8
+    },
+    {
+      "code": "M020",
+      "name": "HIV PCR (<2yo)",
+      "category": "Infectious Diseases",
+      "priceCashZmw": 400,
+      "priceVatZmw": 464
+    },
+    {
+      "code": "M021",
+      "name": "HIV Viral Load",
+      "category": "Infectious Diseases",
+      "priceCashZmw": 500,
+      "priceVatZmw": 580
+    },
+    {
+      "code": "M022",
+      "name": "CD4 Quantification",
+      "category": "Infectious Diseases",
+      "priceCashZmw": 280,
+      "priceVatZmw": 324.8
+    },
+    {
+      "code": "M023",
+      "name": "HIV RDT",
+      "category": "Infectious Diseases",
+      "priceCashZmw": 60,
+      "priceVatZmw": 69.6
+    },
+    {
+      "code": "M024",
+      "name": "Hepatitis A Total Antibody",
+      "category": "Hepatitis",
+      "priceCashZmw": 130,
+      "priceVatZmw": 150.8
+    },
+    {
+      "code": "M025",
+      "name": "Hepatitis A Total Antibody IGM",
+      "category": "Hepatitis",
+      "priceCashZmw": 130,
+      "priceVatZmw": 150.8
+    },
+    {
+      "code": "M026",
+      "name": "Hepatitis B Core Total Antibody",
+      "category": "Hepatitis",
+      "priceCashZmw": 130,
+      "priceVatZmw": 150.8
+    },
+    {
+      "code": "M027",
+      "name": "Hepatitis B Surface Antigen (RDT)",
+      "category": "Hepatitis",
+      "priceCashZmw": 130,
+      "priceVatZmw": 150.8
+    },
+    {
+      "code": "M028",
+      "name": "Hepatitis B E Antigen",
+      "category": "Hepatitis",
+      "priceCashZmw": 280,
+      "priceVatZmw": 324.8
+    },
+    {
+      "code": "M029",
+      "name": "Hepatitis B E Antibody",
+      "category": "Hepatitis",
+      "priceCashZmw": 280,
+      "priceVatZmw": 324.8
+    },
+    {
+      "code": "M030",
+      "name": "Hepatitis C Total Antibody",
+      "category": "Hepatitis",
+      "priceCashZmw": 300,
+      "priceVatZmw": 348
+    },
+    {
+      "code": "M031",
+      "name": "Rapid Plasma Reagin",
+      "category": "Syphilis",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "M032",
+      "name": "TPHA",
+      "category": "Syphilis",
+      "priceCashZmw": 350,
+      "priceVatZmw": 406
+    },
+    {
+      "code": "M033",
+      "name": "Syphilis Antibody Titration",
+      "category": "Syphilis",
+      "priceCashZmw": 200,
+      "priceVatZmw": 232
+    },
+    {
+      "code": "M034",
+      "name": "TB Microscopy",
+      "category": "TB",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "M035",
+      "name": "Urinelam",
+      "category": "TB",
+      "priceCashZmw": 160,
+      "priceVatZmw": 185.6
+    },
+    {
+      "code": "M036",
+      "name": "GeneXpert",
+      "category": "TB",
+      "priceCashZmw": 700,
+      "priceVatZmw": 812
+    },
+    {
+      "code": "M037",
+      "name": "Thin Film",
+      "category": "Malaria",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "M038",
+      "name": "Thick Film",
+      "category": "Malaria",
+      "priceCashZmw": 150,
+      "priceVatZmw": 174
+    },
+    {
+      "code": "M039",
+      "name": "Malaria Antigen (RDT)",
+      "category": "Malaria",
+      "priceCashZmw": 50,
+      "priceVatZmw": 58
+    },
+    {
+      "code": "M040",
+      "name": "Helicobacter Pylori (RDT)",
+      "category": "Other",
+      "priceCashZmw": 80,
+      "priceVatZmw": 92.8
+    },
+    {
+      "code": "M041",
+      "name": "Cryptocuccus Antigen (RDT)",
+      "category": "Other",
+      "priceCashZmw": 80,
+      "priceVatZmw": 92.8
+    },
+    {
+      "code": "M042",
+      "name": "Widal Test",
+      "category": "Other",
+      "priceCashZmw": 100,
+      "priceVatZmw": 116
+    },
+    {
+      "code": "P001",
+      "name": "Toxoplasma GONDII Antibody (RDT)",
+      "category": "Torche/Pregnancy",
+      "priceCashZmw": 80,
+      "priceVatZmw": 92.8
+    },
+    {
+      "code": "P002",
+      "name": "Rubella Antibody (RDT)",
+      "category": "Torche/Pregnancy",
+      "priceCashZmw": 80,
+      "priceVatZmw": 92.8
+    },
+    {
+      "code": "P003",
+      "name": "Cytomegalovirus Antibody (RDT)",
+      "category": "Torche/Pregnancy",
+      "priceCashZmw": 80,
+      "priceVatZmw": 92.8
+    },
+    {
+      "code": "P004",
+      "name": "Herpes Simplex 1/2 (RDT)",
+      "category": "Torche/Pregnancy",
+      "priceCashZmw": 80,
+      "priceVatZmw": 92.8
+    },
+    {
+      "code": "AKH001",
+      "name": "PAP smear",
+      "category": "Cytology",
+      "priceCashZmw": 650,
+      "priceVatZmw": 754
+    },
+    {
+      "code": "AKH002",
+      "name": "Urine Cytology",
+      "category": "Cytology",
+      "priceCashZmw": 650,
+      "priceVatZmw": 754
+    },
+    {
+      "code": "AKH003",
+      "name": "Cerebral spinal fluid",
+      "category": "Cytology",
+      "priceCashZmw": 650,
+      "priceVatZmw": 754
+    },
+    {
+      "code": "AKH004",
+      "name": "Breast",
+      "category": "Cytology",
+      "priceCashZmw": 650,
+      "priceVatZmw": 754
+    },
+    {
+      "code": "AKH005",
+      "name": "Ascitic Fluid",
+      "category": "Cytology",
+      "priceCashZmw": 650,
+      "priceVatZmw": 754
+    },
+    {
+      "code": "AKH006",
+      "name": "Pericardial fluid",
+      "category": "Cytology",
+      "priceCashZmw": 650,
+      "priceVatZmw": 754
+    },
+    {
+      "code": "AKH007",
+      "name": "Pleural fluid",
+      "category": "Cytology",
+      "priceCashZmw": 650,
+      "priceVatZmw": 754
+    },
+    {
+      "code": "AKH008",
+      "name": "Pus",
+      "category": "Cytology",
+      "priceCashZmw": 650,
+      "priceVatZmw": 754
+    },
+    {
+      "code": "AKH009",
+      "name": "Sputum",
+      "category": "Cytology",
+      "priceCashZmw": 650,
+      "priceVatZmw": 754
+    },
+    {
+      "code": "AKH010",
+      "name": "Thyroid",
+      "category": "Cytology",
+      "priceCashZmw": 650,
+      "priceVatZmw": 754
+    },
+    {
+      "code": "AKH011",
+      "name": "Synovial fluid",
+      "category": "Cytology",
+      "priceCashZmw": 650,
+      "priceVatZmw": 754
+    },
+    {
+      "code": "AKH012",
+      "name": "Appendix",
+      "category": "Histopathology",
+      "priceCashZmw": 450,
+      "priceVatZmw": 522
+    },
+    {
+      "code": "AKH013",
+      "name": "Amputations",
+      "category": "Histopathology",
+      "priceCashZmw": 1500,
+      "priceVatZmw": 1740
+    },
+    {
+      "code": "AKH014",
+      "name": "Bone Marrow",
+      "category": "Histopathology",
+      "priceCashZmw": 750,
+      "priceVatZmw": 870
+    },
+    {
+      "code": "AKH015",
+      "name": "Brain Tissue",
+      "category": "Histopathology",
+      "priceCashZmw": 1500,
+      "priceVatZmw": 1740
+    },
+    {
+      "code": "AKH016",
+      "name": "Breast",
+      "category": "Cytology",
+      "priceCashZmw": 1500,
+      "priceVatZmw": 1740
+    },
+    {
+      "code": "AKH017",
+      "name": "Breast Lump",
+      "category": "Histopathology",
+      "priceCashZmw": 550,
+      "priceVatZmw": 638
+    },
+    {
+      "code": "AKH018",
+      "name": "Breast MRM",
+      "category": "Histopathology",
+      "priceCashZmw": 1500,
+      "priceVatZmw": 1740
+    },
+    {
+      "code": "AKH019",
+      "name": "Buccal biopsy",
+      "category": "Histopathology",
+      "priceCashZmw": 550,
+      "priceVatZmw": 638
+    },
+    {
+      "code": "AKH020",
+      "name": "Cervix biopsy",
+      "category": "Histopathology",
+      "priceCashZmw": 550,
+      "priceVatZmw": 638
+    },
+    {
+      "code": "AKH021",
+      "name": "Cervix cone biopsy",
+      "category": "Histopathology",
+      "priceCashZmw": 1050,
+      "priceVatZmw": 1218
+    },
+    {
+      "code": "AKH022",
+      "name": "Colectomy",
+      "category": "Histopathology",
+      "priceCashZmw": 2100,
+      "priceVatZmw": 2436
+    },
+    {
+      "code": "AKH023",
+      "name": "Endobronchial",
+      "category": "Histopathology",
+      "priceCashZmw": 650,
+      "priceVatZmw": 754
+    },
+    {
+      "code": "AKH024",
+      "name": "Laryngeal",
+      "category": "Histopathology",
+      "priceCashZmw": 650,
+      "priceVatZmw": 754
+    },
+    {
+      "code": "AKH025",
+      "name": "Endometrium",
+      "category": "Histopathology",
+      "priceCashZmw": 650,
+      "priceVatZmw": 754
+    },
+    {
+      "code": "AKH026",
+      "name": "Eye ball Specimen",
+      "category": "Histopathology",
+      "priceCashZmw": 750,
+      "priceVatZmw": 870
+    },
+    {
+      "code": "AKH027",
+      "name": "Fallopian Tube",
+      "category": "Histopathology",
+      "priceCashZmw": 650,
+      "priceVatZmw": 754
+    },
+    {
+      "code": "AKH028",
+      "name": "Fistulectomy/Sinus tract",
+      "category": "Histopathology",
+      "priceCashZmw": 450,
+      "priceVatZmw": 522
+    },
+    {
+      "code": "AKH029",
+      "name": "Gall Bladder",
+      "category": "Histopathology",
+      "priceCashZmw": 750,
+      "priceVatZmw": 870
+    },
+    {
+      "code": "AKH030",
+      "name": "Gastrectomy",
+      "category": "Histopathology",
+      "priceCashZmw": 2100,
+      "priceVatZmw": 2436
+    },
+    {
+      "code": "AKH031",
+      "name": "GI Endoscopic biopsy",
+      "category": "Histopathology",
+      "priceCashZmw": 650,
+      "priceVatZmw": 754
+    },
+    {
+      "code": "AKH032",
+      "name": "Granulation tissue",
+      "category": "Histopathology",
+      "priceCashZmw": 650,
+      "priceVatZmw": 754
+    },
+    {
+      "code": "AKH033",
+      "name": "Hemimandibulectomy",
+      "category": "Histopathology",
+      "priceCashZmw": 2100,
+      "priceVatZmw": 2436
+    },
+    {
+      "code": "AKH034",
+      "name": "Neck dissection",
+      "category": "Histopathology",
+      "priceCashZmw": 2100,
+      "priceVatZmw": 2436
+    },
+    {
+      "code": "AKH035",
+      "name": "Hepatic Resection",
+      "category": "Histopathology",
+      "priceCashZmw": 2500,
+      "priceVatZmw": 2900
+    },
+    {
+      "code": "AKH036",
+      "name": "Hirschsprung Disease",
+      "category": "Histopathology",
+      "priceCashZmw": 650,
+      "priceVatZmw": 754
+    },
+    {
+      "code": "AKH037",
+      "name": "Kidney biopsy",
+      "category": "Histopathology",
+      "priceCashZmw": 750,
+      "priceVatZmw": 870
+    },
+    {
+      "code": "AKH038",
+      "name": "Liver biopsy",
+      "category": "Histopathology",
+      "priceCashZmw": 650,
+      "priceVatZmw": 754
+    },
+    {
+      "code": "AKH039",
+      "name": "Large Liver Biopsy",
+      "category": "Histopathology",
+      "priceCashZmw": 1500,
+      "priceVatZmw": 1740
+    },
+    {
+      "code": "AKH040",
+      "name": "Lymph node",
+      "category": "Histopathology",
+      "priceCashZmw": 550,
+      "priceVatZmw": 638
+    },
+    {
+      "code": "AKH041",
+      "name": "Large Lymph node",
+      "category": "Histopathology",
+      "priceCashZmw": 550,
+      "priceVatZmw": 638
+    },
+    {
+      "code": "AKH042",
+      "name": "Muscle biopsy",
+      "category": "Histopathology",
+      "priceCashZmw": 550,
+      "priceVatZmw": 638
+    },
+    {
+      "code": "AKH043",
+      "name": "Nasal polyp",
+      "category": "Histopathology",
+      "priceCashZmw": 550,
+      "priceVatZmw": 638
+    },
+    {
+      "code": "AKH044",
+      "name": "Large Nasal polyp",
+      "category": "Histopathology",
+      "priceCashZmw": 550,
+      "priceVatZmw": 638
+    },
+    {
+      "code": "AKH045",
+      "name": "Nephrectomy",
+      "category": "Histopathology",
+      "priceCashZmw": 750,
+      "priceVatZmw": 870
+    },
+    {
+      "code": "AKH046",
+      "name": "Oesophagectomy",
+      "category": "Histopathology",
+      "priceCashZmw": 1200,
+      "priceVatZmw": 1392
+    },
+    {
+      "code": "AKH047",
+      "name": "Orchidectomy biopsy",
+      "category": "Histopathology",
+      "priceCashZmw": 550,
+      "priceVatZmw": 638
+    },
+    {
+      "code": "AKH048",
+      "name": "Ovarian mass Large",
+      "category": "Histopathology",
+      "priceCashZmw": 1800,
+      "priceVatZmw": 2088
+    },
+    {
+      "code": "AKH049",
+      "name": "Ovarian mass Small",
+      "category": "Histopathology",
+      "priceCashZmw": 550,
+      "priceVatZmw": 638
+    },
+    {
+      "code": "AKH050",
+      "name": "Penectomy biopsy",
+      "category": "Histopathology",
+      "priceCashZmw": 750,
+      "priceVatZmw": 870
+    },
+    {
+      "code": "AKH051",
+      "name": "Placenta",
+      "category": "Histopathology",
+      "priceCashZmw": 750,
+      "priceVatZmw": 870
+    },
+    {
+      "code": "AKH052",
+      "name": "Prostate cores",
+      "category": "Histopathology",
+      "priceCashZmw": 550,
+      "priceVatZmw": 638
+    },
+    {
+      "code": "AKH053",
+      "name": "Prostate chips",
+      "category": "Histopathology",
+      "priceCashZmw": 750,
+      "priceVatZmw": 870
+    },
+    {
+      "code": "AKH054",
+      "name": "Proctectomy",
+      "category": "Histopathology",
+      "priceCashZmw": 1200,
+      "priceVatZmw": 1392
+    },
+    {
+      "code": "AKH055",
+      "name": "Radical cystectomy",
+      "category": "Histopathology",
+      "priceCashZmw": 1800,
+      "priceVatZmw": 2088
+    },
+    {
+      "code": "AKH056",
+      "name": "Radical nephrectomy",
+      "category": "Histopathology",
+      "priceCashZmw": 1800,
+      "priceVatZmw": 2088
+    },
+    {
+      "code": "AKH057",
+      "name": "Salivary gland",
+      "category": "Histopathology",
+      "priceCashZmw": 750,
+      "priceVatZmw": 870
+    },
+    {
+      "code": "AKH058",
+      "name": "Skin biopsy",
+      "category": "Histopathology",
+      "priceCashZmw": 350,
+      "priceVatZmw": 406
+    },
+    {
+      "code": "AKH059",
+      "name": "Skin Biopsy size",
+      "category": "Histopathology",
+      "priceCashZmw": 750,
+      "priceVatZmw": 870
+    },
+    {
+      "code": "AKH060",
+      "name": "Skin Biopsy size",
+      "category": "Histopathology",
+      "priceCashZmw": 750,
+      "priceVatZmw": 870
+    },
+    {
+      "code": "AKH061",
+      "name": "Spleen",
+      "category": "Histopathology",
+      "priceCashZmw": 750,
+      "priceVatZmw": 870
+    },
+    {
+      "code": "AKH062",
+      "name": "Synovial biopsy",
+      "category": "Histopathology",
+      "priceCashZmw": 550,
+      "priceVatZmw": 638
+    },
+    {
+      "code": "AKH063",
+      "name": "Testicular biopsy",
+      "category": "Histopathology",
+      "priceCashZmw": 550,
+      "priceVatZmw": 638
+    },
+    {
+      "code": "AKH064",
+      "name": "Thyroidectomy",
+      "category": "Histopathology",
+      "priceCashZmw": 750,
+      "priceVatZmw": 870
+    },
+    {
+      "code": "AKH065",
+      "name": "Uterus",
+      "category": "Histopathology",
+      "priceCashZmw": 750,
+      "priceVatZmw": 870
+    },
+    {
+      "code": "AKH066",
+      "name": "Large undefined",
+      "category": "Histopathology",
+      "priceCashZmw": 750,
+      "priceVatZmw": 870
+    },
+    {
+      "code": "AKH067",
+      "name": "Medium undefine",
+      "category": "Histopathology",
+      "priceCashZmw": 550,
+      "priceVatZmw": 638
+    },
+    {
+      "code": "AKH068",
+      "name": "Small undefined",
+      "category": "Histopathology",
+      "priceCashZmw": 350,
+      "priceVatZmw": 406
+    },
+    {
+      "code": "AKH069",
+      "name": "Large undefined complex",
+      "category": "Histopathology",
+      "priceCashZmw": 1500,
+      "priceVatZmw": 1740
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+node_modules
+dist
+.output
+.data
+.nitro
+.tanstack
+.vinxi
+.akili
+.npm-cache
+.tmp
+data/
+*.db
+*.db-*
+.env
+.env.*
+!.env.example
+.DS_Store
